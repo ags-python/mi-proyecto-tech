@@ -2,8 +2,7 @@
 
 A continuación, veremos los siguientes temas:
 
-![Gráfico, Gráfico de burbujas El contenido generado por IA puede ser
-incorrecto.](media/image1.png){width="5.3125in" height="5.3125in"}
+![Tecnologías Clave](imagenes/SAC.png)
 
 1\. \*\*Blockchains Públicas\*\*
 
@@ -308,9 +307,7 @@ sectores productivos y sociales, requiriendo enfoques
 multidisciplinarios para abordar sus complejos desafíos mientras se
 maximizan sus beneficios potenciales para la humanidad.
 
-![Diagrama, Diagrama de Venn El contenido generado por IA puede ser
-incorrecto.](media/image2.png){width="5.185416666666667in"
-height="3.6659722222222224in"}
+![Componentes de Data Science](imagenes/Data_Science.png)
 
 \# Explicación de los Componentes de Data Science
 

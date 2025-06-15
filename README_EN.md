@@ -2,8 +2,8 @@
 
 Next, we will explore the following topics:
 
-![Gráfico, Gráfico de burbujas El contenido generado por IA puede ser
-incorrecto.](media/image1.png){width="5.3125in" height="5.3125in"}
+![Blockchain and Technologies](imagenes/SAC.png)
+*Technology convergence diagram*
 
 \#\#\# 1. \*\*Public Blockchains\*\*
 
@@ -300,9 +300,8 @@ This technological convergence is radically reshaping all productive and
 social sectors, requiring multidisciplinary approaches to address its
 complex challenges while maximizing its potential benefits for humanity.
 
-![Diagrama, Diagrama de Venn El contenido generado por IA puede ser
-incorrecto.](media/image2.png){width="5.6722222222222225in"
-height="4.010416666666667in"}
+![Data Science Components](imagenes/Data_Science.png)
+*Core elements of data science*
 
 \# Explanation of Data Science Components:
 
